@@ -1,6 +1,6 @@
 {
   "name": "paper-mentor-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Claude Code skill for deeply understanding academic papers - searches similar papers, analyzes research domain, generates learning questions, and provides interactive feedback",
   "main": "index.js",
   "scripts": {
