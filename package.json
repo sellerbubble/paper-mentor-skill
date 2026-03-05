@@ -21,6 +21,9 @@
     "type": "git",
     "url": "https://github.com/sellerbubble/paper-mentor-skill.git"
   },
+  "bin": {
+    "paper-mentor-skill": "./index.js"
+  },
   "files": [
     "SKILL.md",
     "README.md",
