@@ -1,0 +1,12 @@
+node_modules/
+.git/
+.gitignore
+*.md
+!README.md
+docs/
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.cache

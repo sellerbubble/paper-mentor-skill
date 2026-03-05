@@ -1,0 +1,35 @@
+{
+  "name": "paper-mentor-skill",
+  "version": "1.0.0",
+  "description": "A Claude Code skill for deeply understanding academic papers - searches similar papers, analyzes research domain, generates learning questions, and provides interactive feedback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "claude-code",
+    "skill",
+    "paper",
+    "research",
+    "academic",
+    "learning",
+    "ai"
+  ],
+  "author": "wenhaoli <wli954@connect.hkust-gz.edu.cn>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "QUICKSTART.md",
+    "requirements.txt",
+    "*.py"
+  ],
+  "claudeCodeSkill": {
+    "name": "paper-mentor",
+    "skillDirectory": "."
+  }
+}
