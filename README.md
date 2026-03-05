@@ -34,7 +34,7 @@
 npx paper-mentor-skill install
 
 # 方式二：从 GitHub 安装
-git clone https://github.com/wli954/paper-mentor-skill.git ~/.claude/skills/paper-mentor
+git clone https://github.com/sellerbubble/paper-mentor-skill.git ~/.claude/skills/paper-mentor
 ```
 
 ### 使用
@@ -181,7 +181,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ```bash
 # 克隆仓库
-git clone https://github.com/wli954/paper-mentor-skill.git
+git clone https://github.com/sellerbubble/paper-mentor-skill.git
 
 # 安装依赖
 pip install -r requirements.txt
@@ -200,9 +200,9 @@ python -m pytest tests/
 
 ## 📬 联系方式
 
-- **作者**: wenhaoli
-- **邮箱**: wli954@connect.hkust-gz.edu.cn
-- **GitHub**: [wli954](https://github.com/wli954)
+- **作者**: sellerbubble
+- **邮箱**: 3210106011@zju.edu.cn
+- **GitHub**: [sellerbubble](https://github.com/sellerbubble)
 
 ---
 

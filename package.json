@@ -15,11 +15,11 @@
     "learning",
     "ai"
   ],
-  "author": "wenhaoli <wli954@connect.hkust-gz.edu.cn>",
+  "author": "sellerbubble <3210106011@zju.edu.cn>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wli954/paper-mentor-skill.git"
+    "url": "https://github.com/sellerbubble/paper-mentor-skill.git"
   },
   "files": [
     "SKILL.md",
