@@ -201,7 +201,7 @@ python -m pytest tests/
 ## 📬 联系方式
 
 - **作者**: sellerbubble
-- **邮箱**: 3210106011@zju.edu.cn
+- **邮箱**: 3210106011@zju.edu.cn / wli954@connect.hkust-gz.edu.cn
 - **GitHub**: [sellerbubble](https://github.com/sellerbubble)
 
 ---
